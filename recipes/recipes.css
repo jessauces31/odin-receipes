@@ -1,0 +1,35 @@
+body {
+    background: #c7c0d8;
+    height: 100vh;
+    padding: 20px;
+    padding-top: 5px;
+
+}
+
+.strong {
+    font-weight: bold;
+    border-bottom: 1px solid black;
+    padding: 0 0 4px;
+}
+
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    background: #e3dfec;
+}
+
+a:hover, a:active {
+    color: orange;
+    background-color: aqua;
+  }
+
+a:link {
+    background-color: #d5d0e2;
+    border: 2px solid lightcoral;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    
+}

@@ -1,0 +1,52 @@
+
+body {
+    background: #c7c0d8;
+    height: 100vh;
+}
+
+.header {
+    background: #e3dfec;
+    color: black;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#content {
+
+    height: 200px;
+    width: 250px;
+    border: 2px solid black;
+    border-radius: 25px;
+    background-color: #9c90bb;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div > h3 {
+    text-align: center;
+}
+
+a:link {
+    text-decoration: none;
+  }
+  
+a:hover, a:active {
+    color: lightcoral;
+  }
+
+a:visited {
+    color: white;
+}
+
+.main-content {
+    border: 3px solid black;
+    padding: 1rem;
+    margin: 50px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
